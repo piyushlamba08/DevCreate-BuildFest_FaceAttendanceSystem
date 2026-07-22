@@ -1,7 +1,4 @@
-# Team name - Quantum Coders 
-```
-Members - Piyush Lamba (Leader) , Abhishek, AjayPal Singh, Rajveer Kaur
-```
+
 # Face Recognition Attendance System
 
 A real-time **face recognition–based attendance system** built in Python using **OpenCV** and **face_recognition**.  
